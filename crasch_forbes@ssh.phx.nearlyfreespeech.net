@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>FORBES ISLAND</title>
+		<link rel="stylesheet" href="bamboo.min.css">
+	</head>
+	<body>
+        <table>
+        <tr>
+        <td>
+        <a href="./index.html"><img src="./img/logo-home.gif" alt="logo"></a>
+        </td>
+        <td><h1>
+            Welcome to Forbes Island
+        </h1>
+        </td>
+        </tr>
+</table>
+		<h2>
+			Amenities
+		</h2>
+		<h3> 
+			Underwater Dining Salon 
+		</h3>
+		<p>
+		Dine underwater among antique nautifacts, a large fireplace, full bar and underwater portholes.  The Main Dining Salon is ideal for larger groups.
+		<br>
+		<br>
+		Seating Capacity: 50 
+		</p>
+		<img src="./img/forbesdiningroom.jpg" alt="forbes island dining room">
+
+		<h3> 
+			Tahiti Room 
+		</h3>
+
+		<p>
+Have your banquet under giant palm trees in a thatched beach hut with bamboo walls and Polynesian decor. Wonderful delta views.  This room can be used as a dance floor with a DJ.
+			<br>
+		<br>
+		Seating Capacity: 25 
+		</p>
+		<img src="./img/fi_tahitiroom.jpg" alt="forbes island tahiti room">
+		<h3>
+			Lighthouse Tower 
+		</h3>
+
+		<p>
+Have your banquet under giant palm trees in a thatched beach hut with bamboo walls and Polynesian decor. Wonderful delta views.  This room can be used as a dance floor with a DJ.
+			<br>
+		<br>
+		Capacity: 6 
+		</p>
+		<img src="./img/fi_tahitiroom.jpg" alt="forbes island lighthouse tower">
+		<h3>
+			Wine Cellar	 
+		</h3>
+
+		<p>
+Dine in intimacy with your date in our private wine cellar
+Seating Capacity: 2 People
+			<br>
+		<br>
+		Seating Capacity: 2 
+		</p>
+		<img src="./img/fi_tahitiroom.jpg" alt="forbes island wine celler">
+
+			40 foot lighthouse tower
+			Table for two in private wine cellar
+			Tahiti room dance floor
+		</p>
+<!--
+		<h2> 
+			about
+		</h2>
+
+		<h2> 
+			events
+		</h2>
+
+		<h2> 
+			photos
+		</h2>
+
+		<h2>
+			directions
+		</h2>
+-->
+
+
+		<h2>
+			reservations
+		</h2>
+		<p>
+		To make a reservation, please email <a href="mailto:reservations@forbesisland.com">reservations@forbesisland.com</a>
+		</p>
+		<p>
+		Event date(s)<br>
+		Event organizer<br>
+		Number of Attendees<br>
+		Special Requests<br>
+		</p> 
+
+
+
+
+
+
+		<h2>
+			contact
+		</h2>
+		<p> 
+		Phone: 650 773 6419
+		<br>
+		Email:  <a href="mailto:info@forbesisland.com">info@forbesisland.com</a>
+		<br>
+		<br>
+		Physical Address:<br> 
+		<br>
+		FORBES ISLAND<br>
+		Holland Riverside<br>
+		7000 Holland Tract Rd<br>
+		Brentwood, CA 94513<br>
+		United States<br>
+		<br>
+
+		Google Maps
+		<br>
+		<br>
+		</p>
+	</body>
+</html>
